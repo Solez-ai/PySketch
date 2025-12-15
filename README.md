@@ -2,8 +2,6 @@
 
 PySketch is a modern, web-based visual programming environment that bridges the gap between artistic creativity and coding. Draw directly on the canvas, and watch as your strokes are instantly converted into clean, executable Python Turtle code.
 
-![PySketch Logo](./public/logo.png)
-
 ## ✨ Features
 
 - **Visual Drawing Canvas**: Intuitive drawing interface with pen and eraser tools.

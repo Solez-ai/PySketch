@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   description: "Draw on canvas and generate executable Python Turtle code. A visual programming tool for learning and creating with Python Turtle graphics.",
   keywords: ["Python", "Turtle", "Drawing", "Code Generator", "Educational", "Programming"],
   authors: [{ name: "PySketch" }],
+  icons: {
+    icon: '/favicon.ico',
+  },
   openGraph: {
     title: "PySketch - Drawing to Python Turtle Code",
     description: "Draw on canvas and generate executable Python Turtle code",
