@@ -100,6 +100,7 @@ export const createNewProject = (name: string = 'Untitled Project'): Project => 
         strokes: [],
         settings: {
             speed: 6,
+            backgroundColor: '#0a0a0a',
         },
     };
 
